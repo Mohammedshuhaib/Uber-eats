@@ -1,0 +1,197 @@
+.head-box{
+    width: 100%;
+    height: 609px;
+}
+.logo-manage{
+    margin-left: 88px;
+    position: absolute;
+    margin-top: -572px;
+
+}
+.left-box{
+    width: 33%;
+    background-color: #FFC043;
+    position: relative;
+}
+.mid-box{
+    width: 33%;
+    background-color: #FFC043;
+    position: relative;
+}
+.right-box{
+    width: 35%;
+    background-color: #FFC043;
+    position: relative;
+}
+.img-right{
+    height: 599px;
+    margin-left: -72px;
+}
+body{
+    margin: 0px;
+    font-family: UberMoveText, sans-serif;
+    color: black;
+
+    
+}
+.menu-bar{
+    margin-top: -571px;
+    position: absolute;
+    margin-left: 35px;
+    font-size: 23px;
+    cursor: pointer;
+}
+.signin-button{
+    position: absolute;
+    margin-top: -580px;
+    margin-left: 90%;
+    border-radius: 22px;
+    height: 51px;
+    width: 83px;
+    border: none;
+    cursor: pointer;
+}
+.heading{
+    margin-top: -397px;
+    position: absolute;
+    font-size: 51px;
+    font-weight: bold;
+    margin-left: 42px;
+
+}
+.checkbox{
+    margin-left: 69px;
+    width: 159px;
+    margin-top: -275px;
+    position: absolute;
+    height: 57px;
+    border: none;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: -webkit-center;
+    cursor: pointer;
+}
+.search-box{
+    margin-top: -277px;
+    position: absolute;
+    margin-left: 232px;
+    width: 555px;
+    height: 58px;
+    border: none;
+    padding-left: 39px;
+    font-size: 19px;
+    background-clip: content-box;
+    
+}
+.location-icon{
+    position: absolute;
+    margin-top: -276px;
+    margin-left: 234px;
+    background: white;
+    padding: 21px;
+}
+.find-button{
+    margin-top: -276px;
+    position: absolute;
+    margin-left: 837px;
+    width: 108px;
+    height: 58px;
+    background: black;
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+.content{
+    width: 100%;
+    height: 412px;
+    display: flex;
+
+}
+.first-container{
+    width: 374px;
+    margin-top: 64px;
+    margin-left: 57px;
+    height: 325px;
+    cursor: pointer;
+
+}
+.img-down{
+    font-size: 30px;
+    margin-top: 23px;
+    font-weight: bold;
+    padding: 0px;
+    margin-bottom: 11px;
+    cursor: pointer;
+}
+.content-down{
+    color: black;
+}
+.up-footer{
+    width: 100%;
+    height: 700px;
+    
+}
+.footer-header{
+    margin-left: 54px;
+    font-size: 36px;
+    font-weight: bolder;
+    margin-top: 53px;
+
+}
+.footer-img{
+    width: 1239px;
+    margin-left: 52px;
+}
+.coundries{
+    width: 100%;
+    height: 500px;
+    
+    float: left;
+}
+.places{
+
+    padding-right: 235px;
+    padding-left: 54px;
+    padding-bottom: 41px;
+}
+.main-footer{
+    background: black;
+    height: 550px;
+    margin-top: 472px;
+    
+
+}
+.uber-img{
+    margin-left: 60px;
+    margin-top: 53px;
+}
+.footer_left{
+    background: rgb(0, 0, 0);
+    width: 40%;
+    height: 306px;
+    margin-left: 50%;
+    display: flex;
+}
+.footer-content{
+    color: white;
+    margin: 3px;
+    font-weight: bold;
+}
+.app-logo{
+    margin-left: 39px;
+    margin-bottom: 20px;
+    margin-top: -39px;
+    width: 140px;
+
+}
+    
+
+
+
+
+
+
+
+
