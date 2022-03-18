@@ -112,7 +112,7 @@ body{
 .first-container{
     width: 374px;
     margin-top: 64px;
-    margin-left: 57px;
+    margin-left: 40px;
     height: 325px;
     cursor: pointer;
 
@@ -142,7 +142,7 @@ body{
 }
 .footer-img{
     width: 1239px;
-    margin-left: 52px;
+    margin-left: 20px;
 }
 .coundries{
     width: 100%;
