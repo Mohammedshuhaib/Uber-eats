@@ -151,10 +151,11 @@ body{
     float: left;
 }
 .places{
+    margin-right: 219px;
+    margin-left: 53px;
+    margin-top: 90px;
 
-    padding-right: 235px;
-    padding-left: 54px;
-    padding-bottom: 41px;
+ 
 }
 .main-footer{
     background: black;
@@ -185,6 +186,10 @@ body{
     margin-top: -39px;
     width: 140px;
 
+}
+body{
+    margin: 0px;
+    padding: 0px;
 }
     
 
